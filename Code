@@ -182,7 +182,7 @@ mySerial write(10);
 
 delay(1000);
 
-mySerial.println("http://www.annauniv byethost3.com/waste.html"); 
+mySerial.println("http://www.annaunivbyethost3.com/waste.html"); 
 
 mySerial.write(26);
 
