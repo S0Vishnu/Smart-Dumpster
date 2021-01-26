@@ -8,18 +8,13 @@ The Smart Dumpster performs the operation of separating the bio degradable and n
 
 HARDWARE REQUIREMENTS :
 
-Arduino UNO ATmega328p
-Transformers(step-down)
-Geared DC Motors
-MQ 02 Sensor
-IR Proximity Sensor
-GSM Module
+Arduino UNO ATmega328p, Transformers(step-down), Geared DC Motors, MQ 02 Sensor, IR Proximity Sensor, GSM Module
 
 SOFTWARE REQUIREMENTS :
 
 Arduino IDE
 
-Conclusion
+# Conclusion
 
 The objective of the project has been achieved. By monitoring the level of the bins through sensors, it is possible to achieve a more efficient system than the current existing system. This system mainly concentrates on monitoring the waste management, providing a smart technology for waste segregation, avoiding human intervention, reducing human time and effort and which results in healthy and waste ridden environment. The proposed idea can be implemented for smart cities where the residents would be busy enough with their hectic schedule and wouldn’t have enough time for managing waste.
 
