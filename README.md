@@ -8,16 +8,16 @@ The Smart Dumpster performs the operation of separating the bio degradable and n
 
 HARDWARE REQUIREMENTS :
 
--> Arduino UNO ATmega328p
--> Transformers(step-down)
--> Geared DC Motors
--> MQ 02 Sensor
--> IR Proximity Sensor
--> GSM Module
+Arduino UNO ATmega328p
+Transformers(step-down)
+Geared DC Motors
+MQ 02 Sensor
+IR Proximity Sensor
+GSM Module
 
 SOFTWARE REQUIREMENTS :
 
-->	Arduino IDE
+Arduino IDE
 
 Conclusion
 
